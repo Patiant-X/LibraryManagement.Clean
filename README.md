@@ -12,7 +12,7 @@ Library Martha is a robust, RESTful API built to manage a library system. The pr
 - **User Authentication and Authorization**: Secured with ASP.NET Core Identity and JWT tokens.
 - **Email Notifications**: Sends real-time updates using **SendGrid**.
 - **Swagger/OpenAPI Documentation**: Interactive API documentation for easier testing.
-- **Background Processing**: Automates reservation checks and updates.
+- **Background Processing**: Automates reservation checks and updates, updates book availabilty and sends notification based on book availability.
 
 ## Technologies Used
 - **ASP.NET Core**: Backend framework.
