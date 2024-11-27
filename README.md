@@ -6,7 +6,7 @@ Library Martha is a robust, RESTful API built to manage a library system. The pr
 ## Features
 - **Clean Architecture**: Implements a layered design separating application concerns.
 - **CQRS Pattern with MediatR**: Streamlines request handling for commands and queries.
-- **Extensive Unit and Integration Testing**: Ensures high reliability and maintainability.
+- **Unit and Integration Testing**: Ensures high reliability and maintainability.
 - **Book Management**: Full CRUD operations for managing books in the library.
 - **Reservation System**: Allows users to reserve books for borrowing.
 - **User Authentication and Authorization**: Secured with ASP.NET Core Identity and JWT tokens.
